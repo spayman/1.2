@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador", "Instalador\Instalador.vdproj", "{51CA9E6D-F726-41B5-8E2E-36B25E8D1EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CA9E6D-F726-41B5-8E2E-36B25E8D1EAA}.Debug|Default.ActiveCfg = Debug
+		{51CA9E6D-F726-41B5-8E2E-36B25E8D1EAA}.Debug|Default.Build.0 = Debug
+		{51CA9E6D-F726-41B5-8E2E-36B25E8D1EAA}.Release|Default.ActiveCfg = Release
+		{51CA9E6D-F726-41B5-8E2E-36B25E8D1EAA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

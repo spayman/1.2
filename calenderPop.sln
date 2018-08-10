@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "calenderPop", "Notificacao\calenderPop.vbproj", "{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{51E813C8-E1E8-4C54-8A9C-1729D527C946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|Default.Build.0 = Debug|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|x86.ActiveCfg = Debug|x86
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Debug|x86.Build.0 = Debug|x86
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|Default.ActiveCfg = Release|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|Default.Build.0 = Release|Any CPU
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|x86.ActiveCfg = Release|x86
+		{13729B2F-902C-4D16-9CEF-A1B736E2ACBE}.Release|x86.Build.0 = Release|x86
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Debug|Any CPU.ActiveCfg = Debug
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Debug|Default.ActiveCfg = Debug
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Debug|Default.Build.0 = Debug
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Debug|x86.ActiveCfg = Debug
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Debug|x86.Build.0 = Debug
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Release|Any CPU.ActiveCfg = Release
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Release|Default.ActiveCfg = Release
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Release|Default.Build.0 = Release
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Release|x86.ActiveCfg = Release
+		{51E813C8-E1E8-4C54-8A9C-1729D527C946}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

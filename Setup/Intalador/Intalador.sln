@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Intalador", "Intalador\Intalador.vdproj", "{B46C5CE7-8A29-44D4-8CEB-26838C40412D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46C5CE7-8A29-44D4-8CEB-26838C40412D}.Debug|Default.ActiveCfg = Debug
+		{B46C5CE7-8A29-44D4-8CEB-26838C40412D}.Debug|Default.Build.0 = Debug
+		{B46C5CE7-8A29-44D4-8CEB-26838C40412D}.Release|Default.ActiveCfg = Release
+		{B46C5CE7-8A29-44D4-8CEB-26838C40412D}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
